@@ -63,9 +63,9 @@
                 <div class="col">
                   <div class="card shadow-sm">
                      <div class="card-header bg-dark text-light" align="center">
-                        <h4 class="my-0 fw-normal">News</h4>
+                        <h4 class="my-0 fw-normal">Activities</h4>
                     </div>
-                    <img src="<?= base_url('assets/photo/gambar2.png')?>" style="height: 200px;">
+                    <img src="<?= base_url('assets/photo/gambar1.png')?>" style="height: 200px;">
 
                     <div class="card-body">
                       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -80,9 +80,9 @@
                 <div class="col">
                   <div class="card shadow-sm ">
                     <div class="card-header bg-dark text-light" align="center">
-                        <h4 class="my-0 fw-normal">Activities</h4>
+                        <h4 class="my-0 fw-normal">News</h4>
                     </div>
-                    <img src="<?= base_url('assets/photo/gambar1.png')?>" style="height: 200px; ">
+                    <img src="<?= base_url('assets/photo/gambar2.png')?>" style="height: 200px; ">
 
                     <div class="card-body">
                       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
